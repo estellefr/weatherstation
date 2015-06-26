@@ -1,1 +1,1 @@
-# weatherstation
+This is our weatherstation repo!
